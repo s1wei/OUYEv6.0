@@ -16,4 +16,7 @@
 
 界面简单无脑，适合小白。
 
+## 联系作者：
+![arcode](https://github.com/SIWEI0/OUYEv6.0/assets/86072267/81c4056f-49c6-4e90-a95f-b29d1e357e62)
+
 进阶版[欧耶Pro](https://www.denceun.cn/2024/04/%e6%ac%a7%e8%80%b6pro%e6%ac%a7%e6%98%93%e5%b8%81%e5%ae%89%e5%90%88%e7%ba%a6%e8%b7%9f%e5%8d%95%e7%b3%bb%e7%bb%9f%e5%95%86%e4%b8%9a%e4%bb%b7%e5%80%bc8000/)
